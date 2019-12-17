@@ -1,0 +1,14 @@
+#Vim swap files
+*.swp
+*.swo
+
+#logs directory
+logs
+
+#node_modules directory
+node_modules
+
+#package-lock.json
+package-lock.json
+
+test-results.xml

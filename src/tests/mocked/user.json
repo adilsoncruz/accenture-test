@@ -1,0 +1,6 @@
+{
+  "nome": "fulano",
+  "email": "email@email.com",
+  "senha": "123Mudar",
+  "telefones": [{ "numero": "123456", "ddd": "123456" }]
+}
